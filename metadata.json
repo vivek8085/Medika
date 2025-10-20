@@ -1,0 +1,7 @@
+{
+  "name": "Medika",
+  "description": "An AI-powered medical assistant that answers your health queries using images and text. Upload a photo, ask a question, and get informative insights. Note: This is not a substitute for professional medical advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
